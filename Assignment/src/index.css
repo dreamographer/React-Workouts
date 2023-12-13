@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.Profile-card{
+  background-color: rgb(127, 180, 211);
+  padding: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+    font-family: poppins;
+}
+.profileName{
+  color: white;
+
+}
+.root{
+  font-family: poppins;
+  margin: 5px;
+}
+.error-message{
+  color: red;
+}
+.counter{
+  display: flex;
+  justify-content: center;
+  
+}
